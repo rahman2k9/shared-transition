@@ -1,9 +1,8 @@
 # Shared Transition between Gallery RecyclerView and ViewPager
-
-## Steps to accomplish
 <p align="center">
- <img src="https://github.com/rahman2k9/shared-transition/blob/master/shared.gif" width="200" height="300" />
+ <img src="https://github.com/rahman2k9/shared-transition/blob/master/shared.gif" width="200" height="330" />
  </p>
+## Steps to accomplish
 1. Create any type of gallery view you needed!
 2. Create an adapter usign FragmentPagerAdapter for ViewPager as you wish
 3. And now Follow givien instructions
